@@ -1,0 +1,66 @@
+{
+  "movies": [
+    {
+      "title": "Baahubali: The Beginning",
+      "release_year": 2015,
+      "genres": ["Action", "Drama", "Fantasy"],
+      "rating": 8.1
+    },
+    {
+      "title": "Magadheera",
+      "release_year": 2009,
+      "genres": ["Action", "Drama", "Romance"],
+      "rating": 7.9
+    },
+    {
+      "title": "Temper",
+      "release_year": 2015,
+      "genres": ["Action", "Drama"],
+      "rating": 7.8
+    },
+    {
+      "title": "Sivakasi",
+      "release_year": 2005,
+      "genres": ["Action", "Comedy"],
+      "rating": 7.7
+    },
+    {
+      "title": "Billa",
+      "release_year": 2009,
+      "genres": ["Action", "Crime", "Drama"],
+      "rating": 7.6
+    }
+  ],
+  "food_items": [
+    {
+      "name": "Biryani",
+      "category": "Main Course",
+      "cuisine": "Indian",
+      "rating": 9.0
+    },
+    {
+      "name": "Butter Chicken",
+      "category": "Main Course",
+      "cuisine": "Indian",
+      "rating": 8.5
+    },
+    {
+      "name": "Masala Dosa",
+      "category": "Breakfast",
+      "cuisine": "Indian",
+      "rating": 8.2
+    },
+    {
+      "name": "Pani Puri",
+      "category": "Snack",
+      "cuisine": "Indian",
+      "rating": 8.0
+    },
+    {
+      "name": "Gulab Jamun",
+      "category": "Dessert",
+      "cuisine": "Indian",
+      "rating": 8.7
+    }
+  ]
+}
